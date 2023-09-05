@@ -1,0 +1,69 @@
+.header-1{
+    top: 0;
+    width: 500px;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    overflow-y: auto !important;
+}
+.nav-1{
+    margin-right: 950px;
+}
+.logo{
+    padding: 20px;
+    background-color: black;
+    color: white;
+    width: max-content;
+}   
+ul{
+    padding: 10px 0px 0px 0px;
+    padding-left: 0px;
+    padding-inline-start: 10px !important;
+}
+li{
+    list-style: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: larger;
+}
+.header-2{
+    background-image: linear-gradient(to right, rgba(31, 30, 30,0.75), rgba(16, 14, 14, 1));
+    overflow-y: auto !important;
+}
+.header-2 img{
+    margin: 10px 10px 10px 10px;
+}
+.creat{
+    background-color: white;
+}
+.podcast{
+    background-color: green;
+}
+.my-card{
+    width: fit-content;
+    height: 314px;
+    background-color: black !important;
+}
+.my-card img{
+    margin: 0px;
+    padding: 5px !important;
+    height: 200px;
+    width: 200px;
+}
+.card-body{
+    color: white !important;
+}
+.card{
+    margin: 15px;
+}
+.footer-1{
+     background-color: black;
+}
+.corn-btn{
+    width: 600px;
+}
+.play-img{
+    padding-left: 50px;
+}
